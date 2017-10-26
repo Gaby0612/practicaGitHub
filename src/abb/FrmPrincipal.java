@@ -77,7 +77,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
             }
         });
 
-        jLabel13.setText("Fecha Nacimineto:");
+        jLabel13.setText("Lugar y fecha de nacimiento:");
 
         jLabel14.setText("Genero:");
 
