@@ -106,7 +106,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
             }
         });
 
-        btnCancelar1.setText("Guardar sin cambios");
+        btnCancelar1.setText("cancelars");
         btnCancelar1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnCancelar1ActionPerformed(evt);
