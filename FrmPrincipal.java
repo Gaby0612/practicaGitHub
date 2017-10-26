@@ -89,7 +89,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
 
         jLabel15.setText("Cedula:");
 
-        jlabel6.setText("Nombres y apellidos");
+        jlabel6.setText("Nombre");
 
         txtCodigoProvincia.setText("Cod Provincia:");
 
